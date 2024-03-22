@@ -57,5 +57,5 @@ You will be given a set of poll data called election_data.csv. The dataset is co
         
         6. In addition, your final script should both print the analysis to the terminal and export a text file with the results.
 
-NOTE
+
 
