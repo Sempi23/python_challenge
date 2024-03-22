@@ -63,7 +63,7 @@ with open(file_to_output, "w") as txtfile:
             txtfile.write(f"{candidate}: {percentages[candidate]:.3f}%({votes})\n")
 
     txtfile.write(f"--------------------------\n")
-    txtfile.write(f"Winner: {winner}")
+    txtfile.write(f"Winner: {winner}\n")
     txtfile.write(f"--------------------------\n")
 
 
